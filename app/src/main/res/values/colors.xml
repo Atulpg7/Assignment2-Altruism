@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4e59ad</color>
+    <color name="colorPrimaryDark">#14307d</color>
+    <color name="colorAccent">#03DAC5</color>
+
+
+
+    <color name="white">#FFFFFF</color>
+    <color name="dim_gray">#FBFBFB</color>
+    <color name="black">#000000</color>
+
+
+    <!-- Colors for cards-->
+    <color name="date_color">#40C4FF</color>
+    <color name="time_color">#9B59B6</color>
+    <color name="shift_color">#2980B9</color>
+    <color name="production_color">#FFA71C</color>
+    <color name="cartoon_color">#1ABC9C</color>
+    <color name="shiftdown_color">#E74C3C</color>
+
+
+
+
+</resources>
